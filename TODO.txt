@@ -1,0 +1,2 @@
+add a loader
+add sound each time food eaten && at start of the game
