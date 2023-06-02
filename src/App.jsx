@@ -7,5 +7,4 @@ const App = () => (
     <Board></Board>
   </div>
 );
-
 export default App;
